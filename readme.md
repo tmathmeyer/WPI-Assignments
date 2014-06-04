@@ -5,6 +5,6 @@
  - [ ] CS2303 - intro to Systems Programming (C / C++)
  - [ ] CS3516 - Computer Networks (C)
  - [ ] CS3733 - Software Engineering (Java)
- - [ ] CS3013 - Operating Systems (C)
+ - [x] CS3013 - Operating Systems (C)
  - [ ] CS3431 - Databases Systems I (mixed)
  - [x] CS2011 - assembly (x86)

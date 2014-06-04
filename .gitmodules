@@ -1,3 +1,12 @@
 [submodule "CS2011"]
 	path = CS2011
 	url = git@github.com:tmathmeyer/CS2011.git
+[submodule "CS3013"]
+	path = CS3013
+	url = git@github.com:tmathmeyer/CS3013.git
+[submodule "CS3431"]
+	path = CS3431
+	url = git@github.com:tmathmeyer/CS3431.git
+[submodule "CS2223"]
+	path = CS2223
+	url = git@github.com:tmathmeyer/CS2223.git
