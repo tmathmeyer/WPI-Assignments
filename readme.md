@@ -2,7 +2,7 @@
  - [ ] CS1102 - accelerated intro to CS (racket)
  - [ ] CS2102 - intro to OOP (java)
  - [x] CS2223 - algorithms (java)
- - [ ] CS2303 - intro to Systems Programming (C / C++)
+ - [x] CS2303 - intro to Systems Programming (C / C++)
  - [ ] CS3516 - Computer Networks (C)
  - [ ] CS3733 - Software Engineering (Java)
  - [x] CS3013 - Operating Systems (C)
