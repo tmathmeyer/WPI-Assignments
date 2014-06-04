@@ -10,3 +10,6 @@
 [submodule "CS2223"]
 	path = CS2223
 	url = git@github.com:tmathmeyer/CS2223.git
+[submodule "cs2303"]
+	path = cs2303
+	url = git@github.com:tmathmeyer/cs2303.git
