@@ -1,0 +1,3 @@
+[submodule "CS2011"]
+	path = CS2011
+	url = git@github.com:tmathmeyer/CS2011.git
